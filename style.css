@@ -1,0 +1,39 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: hsl(212, 45%, 89%);
+}
+
+.all {
+    margin-top: 100px;
+    margin-left: 35%;
+    width: 220px;
+    height: 320px;
+    background: hsl(0, 0%, 100%);
+    border-radius: 15px;
+}
+
+img {
+    width: 180px;
+    margin-left: 20px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+h3 {
+    font-size: 15px;
+    text-align: center;
+    font-weight: 900;
+    margin-top: 10px;
+}
+
+p {
+    text-align: center;
+    font-size: 13px;
+    font-weight: 100;
+    margin-top: 10px;
+}
